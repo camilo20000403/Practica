@@ -1,0 +1,71 @@
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.FormBienvenida.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.FormPrincipal.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.Inicio.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.Productos.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.Alquiler.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.Inventario.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.Reportados.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.FormAgregarCliente.resources
+C:\Users\HP\Downloads\proyecto-master\proyecto-master\Proyecto\obj\Debug\Proyecto.FormMostrarCliente.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.Alquiler.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.FormAgregarCliente.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.FormBienvenida.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.FormMostrarCliente.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.FormPrincipal.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.Inventario.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.Productos.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.Reportados.resources
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\LUISK\source\repos\camilo20000403\proyectooo\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.Alquiler.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.FormAgregarCliente.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.FormBienvenida.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.FormMostrarCliente.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.FormPrincipal.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.Inventario.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.Productos.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\HP\Downloads\proyectooo-main\proyectooo-main\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.Alquiler.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.FormAgregarCliente.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.FormBienvenida.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.FormMostrarCliente.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.FormPrincipal.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.Inventario.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.Productos.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.pdb
