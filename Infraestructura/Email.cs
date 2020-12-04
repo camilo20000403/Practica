@@ -21,17 +21,16 @@ namespace Infraestructura
             smtp.Port = 587;
             smtp.EnableSsl = true;
             smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new System.Net.NetworkCredential("kamiiloperez58@gmail.com",
+            smtp.Credentials = new System.Net.NetworkCredential("Camiloandresperez04032000@gmail.com",
             "perez1003241599");
         }
         private void ConfigurarEmail(Cliente cliente) {
             email = new MailMessage();
             email.To.Add(cliente.Email);
             email.From = new MailAddress(cliente.Email);
-            email.Subject = "Registro de Usuario "
-            + DateTime.Now.ToString("dd/MMM/yyy hh:mm:ss");
-            email.Body = $"<b>Sr {cliente.PrimerNombre }</b> <br " +
-            $" > se ha realizado su registro Sartisfactoriamente";
+            email.Subject = "Envio correo desde proyecto";
+            email.Body = $"<b> Camilo Andrés Pérez Beleño, Programacion 3, grupo 03 </b> <br " +
+            $" > ";
             email.IsBodyHtml = true;
             email.Priority = MailPriority.Normal;
         }
