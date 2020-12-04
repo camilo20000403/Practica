@@ -9,14 +9,23 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Runtime.CompilerServices;
+using BLL;
+using Entity;
+//using BLL;
 
 namespace Proyecto
 {
     public partial class Form1 : Form
     {
+        Alquiler alquiler;
+        //Class1 class1;
+        UsuarioService usuarioService;
         public Form1()
         {
             InitializeComponent();
+            //class1 = new Class1(ConfigConnection.connectionString);
+            usuarioService = new UsuarioService(ConfigConnection.connectionString);
+            alquiler = new Alquiler();
         }
 
         int Contador = 0;
@@ -94,9 +103,8 @@ namespace Proyecto
 
         private void btnlogin_Click(object sender, EventArgs e)
         {
-          
-            
-                if (Contador < 3)
+
+            if (Contador < 3)
                 {
                     if (txtuser.Text == "USUARIO" || txtpass.Text == "CONTRASEÑA")
                     {
@@ -104,7 +112,13 @@ namespace Proyecto
                     }
                     else
                     {
-                        if (txtuser.Text.Equals("Perez") && txtpass.Text.Equals("123"))
+                    Usuario usuario = new Usuario()
+                    {
+                        Contraseña = txtpass.Text,
+                        IdUsuario = txtuser.Text
+                    };
+                    var respuesta = usuarioService.ValidarSesion(usuario);
+                        if (!respuesta.Error)
                         {
                         this.Hide();
                         FormBienvenida bienvenida = new FormBienvenida();

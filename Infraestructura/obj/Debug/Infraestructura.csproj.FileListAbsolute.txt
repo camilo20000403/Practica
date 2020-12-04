@@ -1,0 +1,9 @@
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\bin\Debug\Entity.dll
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\bin\Debug\Entity.pdb
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\nicoa\source\repos\Practica1\Infraestructura\obj\Debug\Infraestructura.pdb

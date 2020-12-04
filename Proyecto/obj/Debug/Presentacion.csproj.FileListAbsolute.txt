@@ -69,3 +69,39 @@ C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyec
 C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
 C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.exe
 C:\Users\HP\Downloads\ProyectoEntregaDos-main (1)\ProyectoEntregaDos-main\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.Alquiler.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.FormAgregarCliente.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.FormBienvenida.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.FormMostrarCliente.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.FormPrincipal.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.Inventario.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.Productos.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\System.Security.Permissions.dll
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\System.Security.Permissions.xml
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Entity.dll
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Entity.pdb
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\BLL.dll
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\DAL.dll
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\BLL.pdb
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\DAL.pdb
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\GestionSilla.mdf
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\GestionSilla_log.ldf
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Infraestructura.dll
+C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Infraestructura.pdb

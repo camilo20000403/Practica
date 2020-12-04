@@ -1,0 +1,15 @@
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\GestionSilla.mdf
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\GestionSilla_log.ldf
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\BLL.dll
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\BLL.pdb
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\DAL.dll
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\Entity.dll
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\DAL.pdb
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\Entity.pdb
+C:\Users\nicoa\source\repos\Practica1\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\nicoa\source\repos\Practica1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\nicoa\source\repos\Practica1\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\nicoa\source\repos\Practica1\BLL\obj\Debug\BLL.dll
+C:\Users\nicoa\source\repos\Practica1\BLL\obj\Debug\BLL.pdb
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\Infraestructura.dll
+C:\Users\nicoa\source\repos\Practica1\BLL\bin\Debug\Infraestructura.pdb

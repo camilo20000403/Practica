@@ -18,6 +18,5 @@ namespace Entity
         public string Direccion { get; set; }
         public string Sexo { get; set; }
         public string Email { get; set; }
-        public int Edad { get; set; }
     }
 }

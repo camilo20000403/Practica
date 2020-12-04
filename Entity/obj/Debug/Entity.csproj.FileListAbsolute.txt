@@ -1,0 +1,6 @@
+C:\Users\nicoa\Source\Repos\Practica1\Entity\bin\Debug\Entity.dll
+C:\Users\nicoa\Source\Repos\Practica1\Entity\bin\Debug\Entity.pdb
+C:\Users\nicoa\Source\Repos\Practica1\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\nicoa\Source\Repos\Practica1\Entity\obj\Debug\Entity.dll
+C:\Users\nicoa\Source\Repos\Practica1\Entity\obj\Debug\Entity.pdb
+C:\Users\nicoa\Source\Repos\Practica1\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
