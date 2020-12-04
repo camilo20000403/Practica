@@ -28,9 +28,10 @@ namespace Infraestructura
             email = new MailMessage();
             email.To.Add(cliente.Email);
             email.From = new MailAddress(cliente.Email);
-            email.Subject = "Envio correo desde proyecto";
-            email.Body = $"<b> Camilo Andrés Pérez Beleño, Programacion 3, grupo 03 </b> <br " +
-            $" > ";
+            email.Subject = "Registro de Usuario "
+            + DateTime.Now.ToString("dd/MMM/yyy hh:mm:ss");
+            email.Body = $"<b>Sr {cliente.PrimerNombre }</b> <br " +
+            $" > se ha realizado su registro Sartisfactoriamente";
             email.IsBodyHtml = true;
             email.Priority = MailPriority.Normal;
         }
