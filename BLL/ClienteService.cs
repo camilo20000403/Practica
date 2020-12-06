@@ -27,12 +27,58 @@ namespace BLL
             {
                 conexion.Open();
                 repositorio.Guardar(cliente);
-                mensaje = email.EnviarEmail(cliente);
+                // mensaje = email.EnviarEmail(cliente);
                 return new ClienteResponse(cliente);
             }
             catch (Exception e)
             {
+                e = null;
                 return new ClienteResponse("Cliente Existente");
+            }
+            finally { conexion.Close(); }
+        }
+
+        public List<Cliente> Todos()
+        {
+            List<Cliente> clientes = new List<Cliente>();
+            try
+            {
+                conexion.Open();
+                clientes = repositorio.ConsultarTodos();
+            }catch (Exception e)
+            {
+                e = null;
+            }
+            finally { conexion.Close(); }
+            return clientes;
+        }
+
+        public List<Cliente> ConsultarPorIdentificacion(string Cedula)
+        {
+            List<Cliente> clientes = new List<Cliente>();
+            try
+            {
+                conexion.Open();
+                clientes = repositorio.ConsultarPorIdentificacion(Cedula);
+            }
+            catch (Exception e)
+            {
+                e = null;
+            }
+            finally { conexion.Close(); }
+            return clientes;
+        }
+
+        public void Actualizar(string Campo, string Dato, string Cedula)
+        {
+            try
+            {
+                conexion.Open();
+                repositorio.Actualizar(Campo,Dato,Cedula);
+            }
+            catch (Exception e)
+            {
+                e = null;
             }
             finally { conexion.Close(); }
         }

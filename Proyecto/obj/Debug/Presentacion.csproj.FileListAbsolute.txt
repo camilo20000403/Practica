@@ -101,7 +101,5 @@ C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\BLL.dll
 C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\DAL.dll
 C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\BLL.pdb
 C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\DAL.pdb
-C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\GestionSilla.mdf
-C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\GestionSilla_log.ldf
 C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Infraestructura.dll
 C:\Users\nicoa\Source\Repos\Practica1\Proyecto\bin\Debug\Infraestructura.pdb
