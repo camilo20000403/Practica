@@ -1,0 +1,1 @@
+﻿insert into Usuario (Usuario, Contraseña) values ("Perez", "123");
