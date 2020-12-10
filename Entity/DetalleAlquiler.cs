@@ -10,12 +10,13 @@ namespace Entity
     {
         public Producto Producto { get; set; }
         public int Cantidad { get; set; }
-        public decimal Total { get; set; }
-        public decimal Subtotal { get; set; }
-        public int CantidadDias { get; set; }
+        public double Total { get; set; }
+        public double Subtotal { get; set; }
+        public int Dias { get; set; }
 
-        public DetalleAlquiler(int cantidad , Producto producto)
+        public DetalleAlquiler(int cantidad , Producto producto, int dias)
         {
+            Dias = dias;
             Cantidad = cantidad;
             Producto = producto;
             CalcularTotal();
@@ -24,7 +25,7 @@ namespace Entity
         private void CalcularTotal()
         {
             CalcularSubtotal();
-            Total = Subtotal * CantidadDias;
+            Total = Subtotal * Dias;
         }
 
         public void CalcularSubtotal()

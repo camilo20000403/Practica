@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Alquiler.cs" />
+    <Compile Include="AlquilerFactura.cs" />
     <Compile Include="Cliente.cs" />
     <Compile Include="DetalleAlquiler.cs" />
     <Compile Include="Factura.cs" />

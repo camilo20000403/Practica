@@ -56,8 +56,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlquilerRepository.cs" />
     <Compile Include="ClienteRepository.cs" />
     <Compile Include="ConnectionManager.cs" />
+    <Compile Include="ProductoRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UsuarioRepository.cs" />
   </ItemGroup>

@@ -123,19 +123,5 @@ namespace DAL
             return cliente;
         }
 
-        /*public Persona BuscarPorIdentificacion(string identificacion)
-        {
-            SqlDataReader dataReader;
-            using (var command = _connection.CreateCommand())
-            {
-                command.CommandText = "select * from Persona where Identificacion=@Identificacion";
-                command.Parameters.AddWithValue("@Identificacion", identificacion);
-                dataReader = command.ExecuteReader();
-                dataReader.Read();
-                return DataReaderMapToPerson(dataReader);
-            }
-        }*/
-
-
     }
 }
